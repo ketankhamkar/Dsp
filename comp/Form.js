@@ -6,7 +6,7 @@ import  {View,Text,StyleSheet, TextInput, Button,state} from 'react-native';
 
 
 class Form extends React.Component {
-
+ fcyg
 
   
   state={
@@ -34,6 +34,7 @@ class Form extends React.Component {
   }
 }
 export default Form;
+dchkxc
  const styles= StyleSheet.create({
    usb :{
      
